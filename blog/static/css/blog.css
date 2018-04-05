@@ -47,9 +47,10 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
-#donout{
+#donut{
     float: right;
     display: inline-block;
+    z-index: 999;
 }
 
 .background-color {
